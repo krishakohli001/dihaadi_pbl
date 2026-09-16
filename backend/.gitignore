@@ -1,0 +1,9 @@
+# Ignore third-party packages
+node_modules/
+
+# Ignore local database and uploads
+dihaadi.db
+uploads/
+
+# Ignore environment variables (if you add them later)
+.env
